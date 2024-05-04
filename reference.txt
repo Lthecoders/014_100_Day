@@ -1,0 +1,19 @@
+p1	p2	WIN
+-------------------
+r	r	t
+r	p	p2
+r	s	p1
+
+p	r	p1
+p	p	t
+p	s	p2
+
+s	r	p2
+s	p	p1
+s	s	t
+
+
+,"\033[0m",
+,"\033[32m",
+,"\033[33m",  player 1
+,"\033[34m",  player 2
